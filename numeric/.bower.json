@@ -1,0 +1,10 @@
+{
+  "name": "numeric",
+  "_cacheHeaders": {
+    "Content-Type": "text/html; charset=utf-8"
+  },
+  "main": "jquery.numeric.js",
+  "_source": "https://github.com/xuwenkeke/jQuery-Plugins/tree/master/numeric",
+  "_target": "*",
+  "_originalSource": "https://github.com/xuwenkeke/jQuery-Plugins/tree/master/numeric"
+}
